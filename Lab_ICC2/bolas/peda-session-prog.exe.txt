@@ -1,2 +1,0 @@
-break /home/gustavo/Documentos/Lab_ICC2/bolas/bolas.c:17
-
